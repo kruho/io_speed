@@ -1,6 +1,6 @@
 # io_speed
 
-## 実数
+## 100 x 224 x 224 x 3の倍精度配列
 - 書き込み  
 ![](https://github.com/kruho/io_speed/blob/master/dump.png)  
 
