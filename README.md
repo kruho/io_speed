@@ -1,7 +1,7 @@
 # io_speed
 
 ## 実数
-- 書き込み  
+- 書き込み  
 ![](https://github.com/kruho/io_speed/blob/master/dump.png)  
 
 - 読み込み  
